@@ -1,4 +1,4 @@
-# Pengujian Sistem Booking
+# Pengujian Sistem Booking Menggunakan Cypress
 
 ## Tujuan
 Tujuan dari pengujian ini adalah untuk memastikan bahwa sistem booking dapat mendeteksi masalah harga yang tidak sesuai dan adanya double booking.
@@ -26,7 +26,7 @@ Tujuan dari pengujian ini adalah untuk memastikan bahwa sistem booking dapat men
   - Sistem menampilkan pesan peringatan "Double booking detected."
 
 ## Panduan Penggunaan Skrip Otomatisasi
-1. Clone repository menggunakan perintah ``
+1. Clone repository menggunakan perintah `git clone https://github.com/satriopria/double-booking-test.git`
 2. Masuk ke directory hasil clone repository
 3. Jalankan perintah `npm install` untuk melakukan setup
 - Jika ingin menggunakan CLI
